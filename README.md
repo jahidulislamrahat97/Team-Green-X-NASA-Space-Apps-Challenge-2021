@@ -44,6 +44,16 @@ We are using IoT Server [iotsnackbox.io](https://iotsnacksbox.io/) to store data
 **UAV:**
 <br>
  Our UAV's name is Green Source. we use this UAV to reduce the earth's surface temperature by dropping seed balls into deforested areas at a rapid rate, increasing the rate of forestation. It is specially designed for dropping seed balls. To build this UAV we are using "pixhawk flight controller", M8N GPS, 8CH Transmitter & Receiver.
+ <p align="center">
+  <a rel="noopener noreferrer"><img width="550" src="./img/6.jpg" alt="iotsnackbox.io">
+  </a>
+</p>
+<br>
+Specially designed dropper for dropping seed balls.
+<p align="center">
+  <a rel="noopener noreferrer"><img width="550" src="./img/7.jpg" alt="iotsnackbox.io">
+  </a>
+</p>
 </blockquote>
 <br>
 
